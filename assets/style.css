@@ -1,0 +1,54 @@
+#homebtn {
+    background-color: rgb(14, 10, 70);
+    width: 100px;
+    height: 50px;
+    border-radius: 0px;
+    border: 0;
+    transition: 0.50s;
+    color: white;
+}
+.nav {
+    background-color: rgb(4, 2, 31);
+    padding: 5px;
+    margin: 0px;
+    border-radius: 10px;
+}
+body {
+    direction: rtl;
+}
+#homebtn:hover {
+    width: 110px;
+    height: 55px;
+    background-color: rgb(4, 43, 4);
+    color: black;
+}
+#tutobtn:hover {
+    width: 110px;
+    height: 55px;
+    background-color: rgb(4, 43, 4);
+    color: black;
+}
+#tutobtn {
+    background-color: rgb(14, 10, 70);
+    width: 100px;
+    height: 50px;
+    border-radius: 0px;
+    border: 0;
+    transition: 0.50s;
+    color: white;
+}
+.call {
+    background-color: rgb(14, 10, 70);
+    width: 100px;
+    height: 50px;
+    border-radius: 0px;
+    border: 0;
+    transition: 0.50s;
+    color: white;
+}
+.call:hover {
+    width: 110px;
+    height: 55px;
+    background-color: rgb(4, 43, 4);
+    color: black;
+}
